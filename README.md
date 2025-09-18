@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**Popidge/Popidge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<!-- Profile README for Popidge -->
-
 <div align="center">
   <img src="https://avatars.githubusercontent.com/Popidge" width="120" style="border-radius:50%" alt="Popidge's profile picture">
   <h1>Hi, I'm Popidge 👋</h1>
