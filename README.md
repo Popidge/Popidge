@@ -47,10 +47,4 @@ Performance art project holding up the mirror to academia in the AI Age. An acad
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Popidge&show_icons=true&theme=tokyonight" alt="Popidge's GitHub stats" />
-</div>
-
----
-
 > *“Telling AI what to do since before it knew it was supposed to listen.”*
