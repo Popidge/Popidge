@@ -6,9 +6,13 @@
 
 ---
 
-### 🚀 Currently Building: [ReCue](https://github.com/Popidge/recue) *(private for now)*
+### 🚀 Currently Building: 
+ - [ReCue](https://github.com/Popidge/recue) *(private for now)*
 **Founder & developer of ReCue, an AI-powered platform to instantly find and share the perfect clip from your content library to socials.**  
 Tech stack: Next.js / React / TypeScript (frontend) • Convex & Clerk (auth/db) • Rust RAG engine (backend)
+
+- [The Journal of AI Slop](https://github.com/Popidge/journal_of_ai_slop) - https://journalofaislop.com
+Performance art project holding up the mirror to academia in the AI Age. An academic journal for AI-authored researched, peer-reviewed by AI. Probably going to cause Model Collapse.
 
 ---
 
@@ -22,6 +26,7 @@ Tech stack: Next.js / React / TypeScript (frontend) • Convex & Clerk (auth/db)
 
 ### 🏆 Favorite Projects
 - **ReCue**: My first startup and the product I’ve always wanted to build
+- **Journal of AI Slop**: A daft 3am idea, over-engineered and lovingly built
 - **Triplecargo**: Research-grade solver for Final Fantasy 8’s Triple Triad  
   [Repo](https://github.com/Popidge/triplecargo)
 - **Web Share Tester**: My first npm package and open source contribution  
