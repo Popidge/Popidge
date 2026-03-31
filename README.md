@@ -25,6 +25,7 @@ Tech stack: Next.js / React / TypeScript (frontend) • Convex & Clerk (auth/db)
 - **ReCue**: My first startup and the product I’ve always wanted to build
 - **Journal of AI Slop**: A daft 3am idea, over-engineered and lovingly built.
 - **Idle Vibe Code Quest**: [Vibe-coded idle clicker game about... vibe coding!](https://idlevibecode.quest)
+- **MonkFighter2**: World of Warcraft addon that adds some very important enhancements to Windwalker Monks - Fighting game sound effects!
 - **Triplecargo**: Research-grade solver for Final Fantasy 8’s Triple Triad  
   [Repo](https://github.com/Popidge/triplecargo)
 - **Web Share Tester**: My first npm package and open source contribution  
