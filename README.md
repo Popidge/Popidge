@@ -6,13 +6,6 @@
 
 ---
 
-### 🚀 Currently Building: 
- - [ReCue](https://github.com/Popidge/recue) *(private for now)*
-**Founder & developer of ReCue, an AI-powered platform to instantly find and share the perfect clip from your content library to socials.**  
-Tech stack: Next.js / React / TypeScript (frontend) • Convex & Clerk (auth/db)
-
----
-
 ### 🧑‍💻 Top Skills & Interests
 - **Taming AI**: Prompt engineering, building cool stuff with LLMs & RAG  
 - **Full Stack**: Next.js, React, TypeScript, Rust, Convex, Clerk
@@ -22,7 +15,6 @@ Tech stack: Next.js / React / TypeScript (frontend) • Convex & Clerk (auth/db)
 ---
 
 ### 🏆 Favorite Projects
-- **ReCue**: My first startup and the product I’ve always wanted to build
 - **Journal of AI Slop**: A daft 3am idea, over-engineered and lovingly built.
 - **Idle Vibe Code Quest**: [Vibe-coded idle clicker game about... vibe coding!](https://idlevibecode.quest)
 - **MonkFighter2**: World of Warcraft addon that adds some very important enhancements to Windwalker Monks - Fighting game sound effects!
